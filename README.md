@@ -1,9 +1,5 @@
 
-## Date:28-4-24
-
-## AIM:
-To develop a static company website to display the softwares and services provided by the company.
-
+## CSS Basics
 ## DESIGN STEPS:
 
 ### Step 1:
@@ -685,6 +681,4 @@ text-decoration: none;
 ![alt text](ccourse.png)
 ![alt text](cemploy.png)
 ![alt text](ccontact.png)
-## RESULT:
 
-The program for designing software company website using HTML and CSS is completed successfully.
